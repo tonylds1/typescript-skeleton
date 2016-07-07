@@ -1,0 +1,27 @@
+{
+  "name": "typescript-skeleton",
+  "version": "0.1.0",
+  "description": "Typescript Skeleton",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dudemelo/typescript-skeleton.git"
+  },
+  "keywords": [
+    "typescript",
+    "skeleton",
+    "bootstrap"
+  ],
+  "author": "José Francisco <dudemelo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dudemelo/typescript-skeleton/issues"
+  },
+  "homepage": "https://github.com/dudemelo/typescript-skeleton#readme",
+  "devDependencies": {
+    "jasmine": "^2.4.0"
+  }
+}
